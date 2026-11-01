@@ -1,2 +1,2 @@
 # ChessEngine
-A chess engine built from scratch for learning and experimentation.
+Cool engine i made by vibecoding
